@@ -1,0 +1,5 @@
+info:
+env: dev1
+application: application
+database: dbuser
+password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
